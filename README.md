@@ -1,6 +1,9 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/37747169/46416590-ee9a8480-c738-11e8-8de2-ef8957e46596.png" align="center" width=50%></p>
 
 # PRemote-PC
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/6da9b83ca8d6426ca1d1ef4cfd58bde9)](https://app.codacy.com/app/Khukhuna/PRemote-PC?utm_source=github.com&utm_medium=referral&utm_content=Khukhuna/PRemote-PC&utm_campaign=Badge_Grade_Settings)
+
 Remote PC controll application made during EUhack - Free Hacking.
 This repository is PC side of PRemote.
 
